@@ -1,10 +1,3 @@
-# Djnago-project
-
-Here’s a complete README.md file tailored for your Employee Management System Django project:
-
-⸻
-
-
 # 👥 Employee Management System API
 
 A robust Django REST API for managing employees, departments, attendance tracking, and performance reviews. Built with PostgreSQL, JWT Authentication, and Swagger for seamless API exploration.
